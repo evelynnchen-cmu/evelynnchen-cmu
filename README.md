@@ -1,14 +1,14 @@
 # Hi, I'm Evelynn! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-- 📕 Information Systems Major at Carnegie Mellon University
-- 🏦 [JPMorgan Chase & Co.](https://www.jpmorganchase.com/) Software Engineer Intern (Summer '24)
+- 📕 Information Systems & Human-Computer Interaction at Carnegie Mellon University
+- 🏦 [JPMorgan Chase & Co.](https://www.jpmorgan.com/technology) Software Engineer Intern (Summer '24)
 - ✈️ [Shedd Capital, LLC](https://www.sheddcapital.com/) Software Engineer Intern (Summer '23)
-- 👀 Interested in fullstack web development and UI/UX design
+- 👀 Interested in full-stack development and UI/UX design
 
 Check out my [personal website](https://evelynnchen.com/) to learn more or to get in touch!
 
 ### Languages & Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,c,processing,java,vue,tailwind,bootstrap,javascript,html,css,figma,django,mongodb,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,javascript,processing,java,vue,react,tailwind,bootstrap,html,css,figma,django,ruby,mongodb,git)](https://skillicons.dev)
 <!--
 **evelynnchen-cmu/evelynnchen-cmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
