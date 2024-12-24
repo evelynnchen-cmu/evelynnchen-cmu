@@ -3,12 +3,12 @@
 - 📕 Information Systems & Human-Computer Interaction at Carnegie Mellon University
 - 🏦 [JPMorgan Chase & Co.](https://www.jpmorgan.com/technology) Software Engineer Intern (Summer '24)
 - ✈️ [Shedd Capital, LLC](https://www.sheddcapital.com/) Software Engineer Intern (Summer '23)
-- 👀 Interested in full-stack development and UI/UX design
+- 👀 Interested in software development and product management
 
 Check out my [personal website](https://evelynnchen.com/) to learn more or to get in touch!
 
 ### Languages & Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,c,javascript,processing,java,vue,react,tailwind,bootstrap,html,css,figma,django,ruby,mongodb,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,swift,ts,javascript,c,ruby,processing,dart,next,react,vue,tailwind,bootstrap,mui,html,css,flutter,jest,firebase,postgres,mongodb,express,fastapi,postman,rails,django,spring,vercel,bitbucket,git,figma)](https://skillicons.dev)
 <!--
 **evelynnchen-cmu/evelynnchen-cmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
